@@ -2,9 +2,13 @@
 asgiref==3.6.0
 Django==4.2.1
 djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.2
 pytz==2023.3
 sqlparse==0.4.4
 tzdata==2023.3
 
 # Photos & Images
 Pillow==9.5.0
+
+#
+requests==2.31.0
